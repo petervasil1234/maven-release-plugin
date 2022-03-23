@@ -23,7 +23,6 @@
 
     <scm>
         <developerConnection>scm:git:ssh://git@github.com/petervasil1234/maven-release-plugin.git</developerConnection>
-      <tag>maven-release-plugin-demo-1.0</tag>
   </scm>
 
 </project>
