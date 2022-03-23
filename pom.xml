@@ -4,7 +4,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>maven-release-plugin-demo</artifactId>
-    <version>1.0</version>
+    <version>1.0-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
@@ -22,7 +22,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:ssh://github.com/petervasil1234/maven-release-plugin.git</developerConnection>
+        <developerConnection>scm:git:ssh://git@github.com/petervasil1234/maven-release-plugin.git</developerConnection>
       <tag>maven-release-plugin-demo-1.0</tag>
   </scm>
 
