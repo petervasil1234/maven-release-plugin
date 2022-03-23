@@ -24,7 +24,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git://github.com/petervasil1234/maven-release-plugin</developerConnection>
+        <developerConnection>scm:git:https://github.com/petervasil1234/maven-release-plugin.git</developerConnection>
     </scm>
 
 </project>
